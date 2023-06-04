@@ -1,0 +1,29 @@
+label{
+	display: inline-block;
+    clear: left;
+    width: 200px;
+    text-align: left;
+    margin: 10px;
+}
+
+body{
+	background-color: DarkSlateGrey;
+	color:FloralWhite;
+}
+
+.terms{
+	font-size:15px;
+}
+
+.gender{
+	width:50px;
+}
+
+.text{
+	margin-left:10px;
+}
+
+.signup{
+	margin:10px;
+	width:80px;
+}
